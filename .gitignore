@@ -1,0 +1,7 @@
+data/
+largeData/
+instacart_2017_05_01/
+output/
+NotForZipping/
+__pycache__/
+*.zip
